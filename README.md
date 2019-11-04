@@ -29,5 +29,5 @@ We strongly suggest you first reading the journal paper and then running the cod
      number={6},
      pages={1--52},   
      year={2019},   
-     publisher={Society of Exploration Geophysicists},  
+     publisher={Society of Exploration Geophysicists}
 }
