@@ -21,14 +21,14 @@ We strongly suggest you first reading the journal paper and then running the cod
 
 ## Citation
 
-@article{haoa2019,
-  title={Viscoacoustic anisotropic wave equations},
-  author={Hao, Qi and Alkhalifah, Tariq},
-  journal={Geophysics},
-  volume={84},
+@article{haoa2019,  
+  title={Viscoacoustic anisotropic wave equations},  
+  author={Hao, Qi and Alkhalifah, Tariq},   
+  journal={Geophysics},   
+  volume={84},  
   number={6},
-  pages={1--52},
-  year={2019},
-  publisher={Society of Exploration Geophysicists},
-  doi = {10.1190/geo2018-0865.1},
+  pages={1--52},   
+  year={2019},   
+  publisher={Society of Exploration Geophysicists},  
+  doi = {10.1190/geo2018-0865.1}  
 }
