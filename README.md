@@ -25,7 +25,7 @@ We strongly suggest you first reading the journal paper and then running the cod
 
 
 ## Citation
-If you think our code are helpful to your research, please cite our paper. Thank you very much!      
+If you think our paper and/or code are helpful to your research, please cite our paper. Thank you very much!      
 For MS word users, just copy the paper info (blue text) shown before the "Running the code".    
 For Latex users, just paste the following reference into your bibtex file. 
 
